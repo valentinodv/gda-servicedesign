@@ -65,4 +65,4 @@ Ha inoltre stabilito un linguaggio formale, indipendente dal fornitore o dalla p
 
 Un contenuto, per poter essere pienamente definito “accessibile”, deve poter essere anche “comprensibile”, nel senso di fruibile dal maggior numero possibile di utenti, indipendentemente dalla loro disabilità, ma anche dal livello di istruzione e, più in generale, dalla capacità di accesso alle tecnologie dell’informazione.
 
-Al link che segue è scaricabile un allegato in cui si forniscono alcune buone prassi per la stesura di documenti e siti web accessibili
+In questa documentazione sono incluse alcune [linee guida e buone prassi per la stesura di documenti e siti web accessibili](linee-guida-documenti.md)
