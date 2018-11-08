@@ -41,3 +41,12 @@ Rivolgendosi a un'utenza eterogenea ed estremamente differenziata (giovani, anzi
 * adeguata formazione del personale che si occupa dell'aggiornamento dei siti web per garantirne l'accessibilità nel tempo;
 * tutela, per i dipendenti disabili, della possibilità di lavorare senza forme di discriminazioni;
 * coinvolgimento dei cittadini disabili nella verifica dell'accessibilità ai propri siti web.
+
+# Indice
+
+* Normativa di riferimento
+* Acronimi
+* Link di riferimento
+* Regole da seguire
+  * Linee guida per la stesura di documenti accessibili
+
