@@ -45,7 +45,7 @@ Rivolgendosi a un'utenza eterogenea ed estremamente differenziata (giovani, anzi
 # Indice
 
 * Normativa di riferimento
-* Acronimi
+* [Acronimi](acronimi.md)
 * Link di riferimento
 * Regole da seguire
   * Linee guida per la stesura di documenti accessibili
