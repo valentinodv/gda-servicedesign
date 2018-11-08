@@ -44,7 +44,7 @@ Rivolgendosi a un'utenza eterogenea ed estremamente differenziata (giovani, anzi
 
 # Indice
 
-* Normativa di riferimento
+* [Normativa di riferimento](normativa.md)
 * [Acronimi](acronimi.md)
 * Link di riferimento
 * [Regole da seguire](regole-da-seguire.md)
