@@ -6,7 +6,7 @@
 
 Art. 3. - Tutti i cittadini hanno pari dignità sociale e sono eguali davanti alla legge, senza distinzione di sesso, di razza, di lingua, di religione, di opinioni politiche, di condizioni personali e sociali. E' compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale, che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana e l'effettiva partecipazione di tutti i lavoratori all'organizzazione politica, economica e sociale del Paese.
 
-## Legge Stanca (L. 4/2004) e regolamento di attuazione (D.P.R. 75/2005)
+## Legge Stanca (L. 4/2004) e regolamento di attuazione (<abbr title="Decreto del Presidente della Repubblica">D.P.R.</abbr> 75/2005)
 
 “Disposizioni per favorire l’accesso dei soggetti disabili agli strumenti informatici e telematici”.
 
