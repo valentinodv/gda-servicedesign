@@ -18,6 +18,12 @@ La Legge Stanca è stata recentemente aggiornata con [<abbr title="Decreto Legis
 * è introdotta la regolazione di contestazioni su tale dichiarazione attraverso il difensore civico digitale previsto dal <abbr title="Codice dell'Amministrazione Digitale">CAD</abbr> (<abbr title="articolo">art.</abbr> 3-quinquies)
 * passano all'<abbr title="Agenzia per l'Italia Digitale">AgID</abbr> le attività amministrative di monitoraggio (<abbr title="articolo">art.</abbr> 7) e la definizione dei requisiti tecnici di accessibilità (<abbr title="articolo">art.</abbr> 11)
 
+Altri riferimenti normativi in merito:
+* il [<abbr title="Decreto Ministeriale">D.M.</abbr> 8 luglio 2005](https://www.agid.gov.it/it/Decreto-Ministeriale-8-luglio-2005) e i rispettivi allegati, che riportano i requisiti tecnici e i diversi livelli di accessibilità per applicazioni e siti web ([allegato A](https://www.agid.gov.it/it/DM-8-luglio-2005-Allegato-A)) e la successiva verifica ([allegato B](https://www.agid.gov.it/it/DM-8-luglio-2005-Allegato-B)), le postazioni informatiche ([allegato C](https://www.agid.gov.it/it/DM-8-luglio-2005-Allegato-C)), e le applicazioni software ([allegato D](https://www.agid.gov.it/it/DM-8-luglio-2005-Allegato-D))
+* il [<abbr title="Decreto Ministeriale">D.M.</abbr> 30 aprile 2008](https://www.agid.gov.it/it/Decreto-Ministeriale-30-aprile-2008) e i rispettivi allegati, dedicato principalmente ai libri di testo scolastici ([allegato A](https://www.agid.gov.it/it/DM-30-aprile-2008-Allegato-A)) e al software didattico ([allegato B](https://www.agid.gov.it/it/DM-30-aprile-2008-Allegato-B))
+* la [Circolare <abbr title="Agenzia per l'Italia Digitale">AgID</abbr> 2/2015](https://www.agid.gov.it/sites/default/files/repository_files/circolari/agid_specifiche_postazioni_lavoro.pdf), riguardante le specifiche tecniche sull’hardware, il software e le tecnologie assistive delle postazioni di lavoro a disposizione del dipendente con disabilità
+
+
 ## Codice dell'Amministrazione Digitale (D.Lgs. 82/2005 e s.m.i.)
 
 ### Art. 7. - Qualità dei servizi resi e soddisfazione dell'utenza.
@@ -66,14 +72,6 @@ Comma 2 - Ferme le competenze di ciascuna pubblica amministrazione, le basi di d
 
 Comma 1-ter. - Le regole tecniche di cui al presente codice sono dettate in conformità ai requisiti tecnici di accessibilità di cui all'articolo 11 della legge 9 gennaio 2004, n. 4, alle discipline risultanti dal processo di standardizzazione tecnologica a livello internazionale ed alle normative dell'Unione europea.
 
-## Requisiti tecnici e i diversi livelli per l'accessibilita' agli strumenti informatici. (D.M. 8 luglio 2005 e s.m.i.) 
-
-Contiene i requisiti tecnici ed i diversi livelli per l’accessibilità agli strumenti informatici.
-
-## Approvazione dell'elenco delle associazioni e degli enti legittimati ad agire per la tutela giudiziaria delle persone con disabilita', vittime di discriminazioni. (D.M. 30 aprile 2008)
-
-Regole tecniche disciplinanti l'accessibilità agli strumenti didattici e formativi a favore degli alunni disabili.
-
 ## Disposizioni in materia di riconoscibilità, aggiornamento, usabilità, accessibilità e registrazione al dominio ".gov.it" dei siti web delle P.A.. (Direttiva 8/2009 Ministero della Pubblica Amministrazione)
 
 Direttiva del Ministro per la Pubblica Amministrazione e l’innovazione per la riduzione dei siti web delle Pubbliche Amministrazioni e per il miglioramento della qualità dei servizi e delle informazioni on line al cittadino.
@@ -107,10 +105,6 @@ Comma 1 - Ai fini della piena accessibilità delle informazioni pubblicate, nell
 ## Obiettivi di accessibilità (Circolare AgID 61/2013, aggiornata con Circolare AgID 1/2016)
 
 Disposizioni del decreto legge 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221 in tema di accessibilità dei siti web e servizi informatici. Obblighi delle pubbliche Amministrazioni.
-
-## Circolare AgID 2/2015
-
-Specifiche tecniche sull’hardware, il software e le tecnologie assistive delle postazioni di lavoro a disposizione del dipendente con disabilità.
 
 ## Circolare AgID 3/2017
 
