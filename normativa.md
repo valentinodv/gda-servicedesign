@@ -5,7 +5,7 @@
 Si possono trovare riferimenti normativi relativi all'accessibilità già nella [Costituzione della Repubblica Italiana](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione), e in particolare all'articolo 3:
 
 > Tutti i cittadini hanno pari dignita' sociale e sono eguali davanti alla legge, senza distinzione di sesso, di razza, di lingua, di religione, di opinioni politiche, di condizioni personali e sociali. 
-
+>
 > E' compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale, che, limitando di fatto la liberta' e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana e l'effettiva partecipazione di tutti i lavoratori all'organizzazione politica, economica e sociale del Paese.
 
 ## Legge Stanca (L. 4/2004) e regolamento di attuazione (<abbr title="Decreto del Presidente della Repubblica">D.P.R.</abbr> 75/2005)
