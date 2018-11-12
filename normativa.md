@@ -15,14 +15,8 @@ I primi riferimenti normativi in proposito sono dati dalla [Legge Stanca (<abbr 
 La Legge Stanca è stata recentemente aggiornata con [<abbr title="Decreto Legislativo">D.Lgs.</abbr> 106/2008](http://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2018-09-11&atto.codiceRedazionale=18G00133&atto.articolo.numero=1&atto.articolo.tipoArticolo=0). Le modifiche introdotte con questo provvedimento sono:
 * sono introdotti requisiti di accessibilità anche per le applicazioni mobili e per i contenuti su rete interna al pari dei siti web (<abbr title="articolo">art.</abbr> 2)
 * sono descritti i dettagli della dichiarazione di accessibilità (<abbr title="articolo">art.</abbr> 3-quater)
-* è introdotta la regolazione di contestazioni su tale dichiarazione attraverso il difensore civico digitale, previsto dal <abbr title="Codice dell'Amministrazione Digitale">CAD</abbr> (<abbr title="articolo">art.</abbr> 3-quinquies)
+* è introdotta la regolazione di contestazioni su tale dichiarazione attraverso il difensore civico digitale previsto dal <abbr title="Codice dell'Amministrazione Digitale">CAD</abbr> (<abbr title="articolo">art.</abbr> 3-quinquies)
 * passano all'<abbr title="Agenzia per l'Italia Digitale">AgID</abbr> le attività amministrative di monitoraggio (<abbr title="articolo">art.</abbr> 7) e la definizione dei requisiti tecnici di accessibilità (<abbr title="articolo">art.</abbr> 11)
-
-## Legge Stanca (L. 4/2004) e regolamento di attuazione 
-
-“Disposizioni per favorire l’accesso dei soggetti disabili agli strumenti informatici e telematici”.
-
-Regolamento di attuazione della Legge Stanca per favorire l’accesso dei soggetti disabili agli strumenti informatici.
 
 ## Codice dell'Amministrazione Digitale (D.Lgs. 82/2005 e s.m.i.)
 
