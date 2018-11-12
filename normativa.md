@@ -2,15 +2,21 @@
 
 # Accessibilità: la normativa di riferimento
 
-## Costituzione della Repubblica Italiana (GU n.298 del 27-12-1947)
+Si possono trovare riferimenti normativi relativi all'accessibilità già nella [Costituzione della Repubblica Italiana](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione), e in particolare all'articolo 3:
 
-Art. 3. - Tutti i cittadini hanno pari dignità sociale e sono eguali davanti alla legge, senza distinzione di sesso, di razza, di lingua, di religione, di opinioni politiche, di condizioni personali e sociali. E' compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale, che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana e l'effettiva partecipazione di tutti i lavoratori all'organizzazione politica, economica e sociale del Paese.
+> Tutti i cittadini hanno pari dignita' sociale e sono eguali davanti alla legge, senza distinzione di sesso, di razza, di lingua, di religione, di opinioni politiche, di condizioni personali e sociali. 
+>
+> E' compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale, che, limitando di fatto la liberta' e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana e l'effettiva partecipazione di tutti i lavoratori all'organizzazione politica, economica e sociale del Paese.
 
-## Legge Stanca (L. 4/2004) e regolamento di attuazione (<abbr title="Decreto del Presidente della Repubblica">D.P.R.</abbr> 75/2005)
+## L'accesso agli strumenti informatici da parte di persone con disabilità
 
-“Disposizioni per favorire l’accesso dei soggetti disabili agli strumenti informatici e telematici”.
+I primi riferimenti normativi in proposito sono dati dalla [Legge Stanca (<abbr title="Legge">L.</abbr> 4/2004)](http://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2004-01-17&atto.codiceRedazionale=004G0015&queryString=%3FmeseProvvedimento%3D%26formType%3Dricerca_semplice%26numeroArticolo%3D%26numeroProvvedimento%3D4%26testo%3D%26annoProvvedimento%3D2004%26giornoProvvedimento%3D&currentPage=1) e dal successivo decreto di attuazione ([<abbr title="Decreto del Presidente della Repubblica">D.P.R.</abbr> 75/2005](http://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2005-05-03&atto.codiceRedazionale=005G0097&queryString=%3FmeseProvvedimento%3D%26formType%3Dricerca_semplice%26numeroArticolo%3D%26numeroProvvedimento%3D75%26testo%3D%26annoProvvedimento%3D2005%26giornoProvvedimento%3D&currentPage=1)).
 
-Regolamento di attuazione della Legge Stanca per favorire l’accesso dei soggetti disabili agli strumenti informatici.
+La Legge Stanca è stata recentemente aggiornata con [<abbr title="Decreto Legislativo">D.Lgs.</abbr> 106/2008](http://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2018-09-11&atto.codiceRedazionale=18G00133&atto.articolo.numero=1&atto.articolo.tipoArticolo=0). Le modifiche introdotte con questo provvedimento sono:
+* sono introdotti requisiti di accessibilità anche per le applicazioni mobili e per i contenuti su rete interna al pari dei siti web (<abbr title="articolo">art.</abbr> 2)
+* sono descritti i dettagli della dichiarazione di accessibilità (<abbr title="articolo">art.</abbr> 3-quater)
+* è introdotta la regolazione di contestazioni su tale dichiarazione attraverso il difensore civico digitale previsto dal <abbr title="Codice dell'Amministrazione Digitale">CAD</abbr> (<abbr title="articolo">art.</abbr> 3-quinquies)
+* passano all'<abbr title="Agenzia per l'Italia Digitale">AgID</abbr> le attività amministrative di monitoraggio (<abbr title="articolo">art.</abbr> 7) e la definizione dei requisiti tecnici di accessibilità (<abbr title="articolo">art.</abbr> 11)
 
 ## Codice dell'Amministrazione Digitale (D.Lgs. 82/2005 e s.m.i.)
 
