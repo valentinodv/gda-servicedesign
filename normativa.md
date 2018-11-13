@@ -22,7 +22,7 @@ Altri riferimenti normativi in merito:
 * il [<abbr title="Decreto Ministeriale">D.M.</abbr> 8 luglio 2005](https://www.agid.gov.it/it/Decreto-Ministeriale-8-luglio-2005) e i rispettivi allegati, che riportano i requisiti tecnici e i diversi livelli di accessibilità per applicazioni e siti web ([allegato A](https://www.agid.gov.it/it/DM-8-luglio-2005-Allegato-A)) e la successiva verifica ([allegato B](https://www.agid.gov.it/it/DM-8-luglio-2005-Allegato-B)), le postazioni informatiche ([allegato C](https://www.agid.gov.it/it/DM-8-luglio-2005-Allegato-C)), e le applicazioni software ([allegato D](https://www.agid.gov.it/it/DM-8-luglio-2005-Allegato-D))
 * il [<abbr title="Decreto Ministeriale">D.M.</abbr> 30 aprile 2008](https://www.agid.gov.it/it/Decreto-Ministeriale-30-aprile-2008) e i rispettivi allegati, dedicato principalmente ai libri di testo scolastici ([allegato A](https://www.agid.gov.it/it/DM-30-aprile-2008-Allegato-A)) e al software didattico ([allegato B](https://www.agid.gov.it/it/DM-30-aprile-2008-Allegato-B))
 * la [Circolare <abbr title="Agenzia per l'Italia Digitale">AgID</abbr> 2/2015](https://www.agid.gov.it/sites/default/files/repository_files/circolari/agid_specifiche_postazioni_lavoro.pdf), riguardante le specifiche tecniche sull’hardware, il software e le tecnologie assistive delle postazioni di lavoro a disposizione del dipendente con disabilità
-
+* la [Circolare <abbr title="Agenzia per l'Italia Digitale">AgID</abbr> 3/2017](https://www.agid.gov.it/sites/default/files/repository_files/uploads/193/circolare_agid_03-2017_servizi_a_sportello_accessibili.pdf), riguardante i servizi a sportello, i servizi online indirizzati al pubblico, e i servizi interni di supporto ad essi
 
 ## Codice dell'Amministrazione Digitale (D.Lgs. 82/2005 e s.m.i.)
 
@@ -105,11 +105,6 @@ Comma 1 - Ai fini della piena accessibilità delle informazioni pubblicate, nell
 ## Obiettivi di accessibilità (Circolare AgID 61/2013, aggiornata con Circolare AgID 1/2016)
 
 Disposizioni del decreto legge 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221 in tema di accessibilità dei siti web e servizi informatici. Obblighi delle pubbliche Amministrazioni.
-
-## Circolare AgID 3/2017
-
-Raccomandazioni sull’accessibilità dei servizi pubblici erogati a sportello.
-Bozza di Circolare AgID su "Raccomandazioni e precisazioni sull’accessibilità dei servizi pubblici erogati a sportello dalla pubblica amministrazione. Estensione dei principi ispiratori della Circolare AgID n. 2/2015."
 
 ## Linee guida di design servizi digitali della PA
 
